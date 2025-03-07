@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HireMeBackEnd/HireMeBackEnd.md",
+                "file": "HireMeBackEnd/Services/ProductConsolidator/Collect/Implementations/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HireMeBackEnd"
+              "title": "README"
             }
           }
         ]
@@ -170,9 +170,13 @@
   },
   "active": "f4948294720f6044",
   "lastOpenFiles": [
+    "HireMeBackEnd/README.md",
+    "HireMeBackEnd/Services/ProductConsolidator/Collect/Implementations/README.md",
+    "README.md",
+    "HireMeBackEnd/HireMeBackEnd.md",
+    "HireMeBackEnd.md",
     "HireMeBackEnd/0djch5jm.lzm~",
     "HireMeBackEnd/pp2x0qmp.gkh~",
-    "HireMeBackEnd/HireMeBackEnd.md",
     "Welcome.md"
   ]
 }
